@@ -156,10 +156,7 @@ Deployed using Render.
 
 ## Author
 
-Emmanuel
+Emmanuel Muwanguzi
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
