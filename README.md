@@ -71,7 +71,6 @@ Tomato-Disease-Detection/
 
 ```bash
 git clone https://github.com/muwanguziemmanuel2404/tomatodisease.git
-cd Tomato-Disease-Detection
 ```
 
 ### Backend Setup
